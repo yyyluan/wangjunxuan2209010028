@@ -1,4 +1,4 @@
-# 王珺璇  
+# wangjunxuan  
 **（+86）18866668888** | **wjx@hutb.edu.cn** | [GitHub](https://github.com/yyyluan)
 
 ## 🏆 核心优势
