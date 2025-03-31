@@ -9,6 +9,10 @@
 ## 🚀 技术栈
 `Python` `SQL` `Tableau` `Hadoop` `Spark` `A/B Testing` `Power BI` `Machine Learning`
 
+## 教育背景
+中南大学信息管理与信息系统2022级
+2209010028
+
 ## 💼 项目经历
 ### 电商用户行为分析系统（2023.03-2023.08）
 - 构建千万级日活用户画像标签体系
